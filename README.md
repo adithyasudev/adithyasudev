@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adithyasudeveloper444.netlify.app/](https://adithyasudeveloper444.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@adithyasudev28/list/reading-list](https://medium.com/@adithyasudev28/list/reading-list)
+- 📝 I have some readlist articles on [https://medium.com/@adithyasudev28/list/reading-list](https://medium.com/@adithyasudev28/list/reading-list)
 
 - 💬 Ask me about **MERN**
 
