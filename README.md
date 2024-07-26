@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adithyasudev28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HdfIwFOpEfL_ZqEyhI3pBW1KtbEDyLys/view](https://drive.google.com/file/d/1HdfIwFOpEfL_ZqEyhI3pBW1KtbEDyLys/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1HdfIwFOpEfL_ZqEyhI3pBW1KtbEDyLys/view](https://drive.google.com/file/d/1ZQ66oqGdvj8_0EK_NqChvxcpydgbbS5M/view?usp=drive_link)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
