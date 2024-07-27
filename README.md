@@ -42,7 +42,7 @@
 </p>
 
 <h2>🥇 Technical Skills:  </h2>  
- <div align="center"><h3 align="center">Frontend</h3>
+ <div align="left"><h3 align="left">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -59,7 +59,7 @@
   
 </div>
  <br/>
-<div align="center"><h3 align="center">Backend</h3> 
+<div align="left"><h3 align="left">Backend</h3> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/MySQL-%23015B85?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL"/>
 </div>
   
-  <div align="center"><h3 align="center">Tools</h3> 
+  <div align="left"><h3 align="left">Tools</h3> 
    <img src="https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
