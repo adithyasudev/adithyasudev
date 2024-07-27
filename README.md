@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://adithyasudeveloper444.netlify.app/)
 <h1 align="center">Hi there 👋 I'm Adithya Sudev</h1>
 <h3 align="center">
-  I am a passionate Full-Stack Developer specializing in building dynamic and responsive web applications.<br>
-  With expertise in the MERN stack (MongoDB, Express.js, React, Node.js),<br>
+  I am a passionate Full-Stack Developer specializing in building dynamic and responsive web applications.
+  With expertise in the MERN stack <br>
   I craft seamless user experiences from front-end to back-end.<br>
   My goal is to continuously learn and apply new technologies to solve real-world problems and build applications with attractive UIs.
 </h3>
