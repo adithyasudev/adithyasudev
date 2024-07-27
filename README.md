@@ -1,5 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://adithyasudeveloper444.netlify.app/)
 <h1 align="center">Hi there 👋 I'm Adithya Sudev</h1>
+<h3 align="center">
+  I am a passionate Full-Stack Developer specializing in building dynamic and responsive web applications.<br>
+  With expertise in the MERN stack (MongoDB, Express.js, React, Node.js),<br>
+  I craft seamless user experiences from front-end to back-end.<br>
+  My goal is to continuously learn and apply new technologies to solve real-world problems and build applications with attractive UIs.
+</h3>
+
 <img align="right" alt="Coding" width="500"  height="400"          
  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyasudev&label=Profile%20views&color=0e75b6&style=flat" alt="adithyasudev" /> </p>
