@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/adithyasudev" target="blank"><img src="https://img.shields.io/twitter/follow/adithyasudev?logo=twitter&style=for-the-badge" alt="adithyasudev" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently building mern projects
 
 - 👨‍💻 All of my projects are available at [https://adithyasudeveloper444.netlify.app/](https://adithyasudeveloper444.netlify.app/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **adithyasudev28@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1crGByc4qFEwaBz0uDUEvn-qQ7M5hsLzM/view?usp=sharing](https://drive.google.com/file/d/1crGByc4qFEwaBz0uDUEvn-qQ7M5hsLzM/view?usp=sharing)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1RK8Mig99Xzn2w8iLf1-4ikRhBYoYbokg/view?usp=sharing](https://drive.google.com/file/d/1RK8Mig99Xzn2w8iLf1-4ikRhBYoYbokg/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
