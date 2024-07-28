@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently building mern projects
 
-- 👨‍💻 All of my projects are available at [https://adithyasudeveloper444.netlify.app/](https://adithyasudeveloper444.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adithyadev555.netlify.app/](https://adithyadev555.netlify.app/)
 
 - 📝 I have some readlist articles on [https://medium.com/@adithyasudev28/list/reading-list](https://medium.com/@adithyasudev28/list/reading-list)
 
